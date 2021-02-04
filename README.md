@@ -4,6 +4,7 @@ tp created by RAOUTANI TAHA
 language= KOTLIN
 some pics
 
+device: pixel 3a
 
 
 
